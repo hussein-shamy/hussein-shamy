@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Hussein El-Shamy! 👋
 
-<!--
-**hussein-shamy/hussein-shamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Embedded Software Engineer with a strong background in C/C++ and AVR microcontrollers. Here's a glimpse of what I do:
 
-Here are some ideas to get you started:
+## 🌱 I'm Currently Learning
+- ARM-based microcontroller
+- AUTOSAR Standard
+- Real-Time Operating System (RTOS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are a few projects I'm proud of:
+1. Door Locker Security System - Developing a system to unlock a door using a password using ATmega3
+2. BSc_Thesis - Designing a System-Level 5G Mobile Network Environment for Q-Learning Agent Interaction
+
+## 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/hussein-shamy/))
+
+Feel free to explore my repositories and connect with me! 😊
