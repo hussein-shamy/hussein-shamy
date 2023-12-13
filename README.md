@@ -1,6 +1,6 @@
 # Hello, I'm Hussein El-Shamy! 👋
 
-I'm a passionate Embedded Software Engineer with a strong background in C/C++ and AVR microcontrollers. Here's a glimpse of what I do:
+I'm a passionate Embedded Software Engineer with a strong background in C programming and AVR microcontrollers. Here's a glimpse of what I do:
 
 ## 🌱 I'm Currently Learning
 - ARM-based microcontroller
